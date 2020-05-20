@@ -16,16 +16,34 @@
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
+      "body": "some comment 1",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "some comment",
+      "body": "some comment 2",
       "postId": 1
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profile": [
+    {
+      "id": 1,
+    "name": "Ajeya",
+    "age" : 25,
+    "place" : "Mysuru"
+    },
+    {
+      "id": 2,
+      "name": "Pargati",
+      "age" : 23,
+      "place" : "Bengaluru"
+    },
+    {
+      "id": 3,
+      "name": "Nasa",
+      "age" : 56,
+      "place" : "Dehli"
+    },
+  ]
+
 }
